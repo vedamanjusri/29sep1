@@ -1,0 +1,11 @@
+element.style{
+}
+body{
+    background-image: url(\Users\USER\Desktop\29sep1\nature.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+html{
+    display:block;
+    background-image: -moz-element();
+}
